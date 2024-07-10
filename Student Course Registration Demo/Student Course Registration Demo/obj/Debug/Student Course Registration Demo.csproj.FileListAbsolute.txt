@@ -1,0 +1,13 @@
+C:\Users\colwellde\source\repos\Student Course Registration Demo\Student Course Registration Demo\bin\Debug\Pictures\Alien.jpg
+C:\Users\colwellde\source\repos\Student Course Registration Demo\Student Course Registration Demo\bin\Debug\Pictures\Bart.png
+C:\Users\colwellde\source\repos\Student Course Registration Demo\Student Course Registration Demo\bin\Debug\Pictures\Synthia.jpg
+C:\Users\colwellde\source\repos\Student Course Registration Demo\Student Course Registration Demo\bin\Debug\Student Course Registration Demo.exe.config
+C:\Users\colwellde\source\repos\Student Course Registration Demo\Student Course Registration Demo\bin\Debug\Student Course Registration Demo.exe
+C:\Users\colwellde\source\repos\Student Course Registration Demo\Student Course Registration Demo\bin\Debug\Student Course Registration Demo.pdb
+C:\Users\colwellde\source\repos\Student Course Registration Demo\Student Course Registration Demo\obj\Debug\Student Course Registration Demo.csproj.AssemblyReference.cache
+C:\Users\colwellde\source\repos\Student Course Registration Demo\Student Course Registration Demo\obj\Debug\Student_Course_Registration_Demo.Form1.resources
+C:\Users\colwellde\source\repos\Student Course Registration Demo\Student Course Registration Demo\obj\Debug\Student_Course_Registration_Demo.Properties.Resources.resources
+C:\Users\colwellde\source\repos\Student Course Registration Demo\Student Course Registration Demo\obj\Debug\Student Course Registration Demo.csproj.GenerateResource.cache
+C:\Users\colwellde\source\repos\Student Course Registration Demo\Student Course Registration Demo\obj\Debug\Student Course Registration Demo.csproj.CoreCompileInputs.cache
+C:\Users\colwellde\source\repos\Student Course Registration Demo\Student Course Registration Demo\obj\Debug\Student Course Registration Demo.exe
+C:\Users\colwellde\source\repos\Student Course Registration Demo\Student Course Registration Demo\obj\Debug\Student Course Registration Demo.pdb
